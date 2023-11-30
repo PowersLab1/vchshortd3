@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "vch_short_psychedelic_4",
+  "taskName": "vchshortd3",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
